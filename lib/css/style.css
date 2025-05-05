@@ -35,3 +35,35 @@
   /* padding: 10px 40px; */
   /* width: 50px; */
 }
+
+/* hero section style */
+
+.hero-section {
+  background-image: url("../images/bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero {
+  padding-top: 150px;
+}
+
+.hero-text-container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.hero-text-container h1 {
+  font-size: 50px;
+}
+
+.hero-text-container p {
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.cta-btn-container {
+  width: 80%;
+  margin: 40px auto;
+}
